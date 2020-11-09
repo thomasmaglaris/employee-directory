@@ -1,0 +1,21 @@
+img {
+  height: 65px;
+  width: 65px;
+}
+
+button {
+  background-color: deepskyblue;
+}
+
+.search-input {
+  margin-left: 40px;
+}
+
+.images {
+  margin-left: 10%;
+}
+
+.header {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
