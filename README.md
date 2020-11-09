@@ -20,11 +20,15 @@ This employee directory was created using React and allows users to sort and sea
 
 ## Installation
 
-Type npm install in the terminal with correct working directory
+No installation required.
 
 ## Usage
 
-type 'node server.js' in the terminal (make sure the terminal directory is the correct path)
+Follow the link for a video reference
+
+https://drive.google.com/file/d/1pmNii_UrZdFGftZgh7lKUfNSaeDOlED2/view
+
+https://thomasmaglaris.github.io/employeetracker
 
 ## License
 
@@ -39,5 +43,3 @@ Contribution is welcome for all interested parties
 
 GitHub: http://github.com/thomasmaglaris
 Email: thomasmaglaris@gmail.com
-
-https://drive.google.com/file/d/1pmNii_UrZdFGftZgh7lKUfNSaeDOlED2/view
